@@ -26,3 +26,8 @@ Or open the movie_site folder double click entertainment_center.py
     <dd>fresh_tomatoes.py file included in movie_site folder.</dd>
 </dl>
 
+<dl>
+    <dt>Application Description</dt>
+    <dd>Generates a web site that shows some of my favorite Movies and 
+        allows the user to click on the images to show related trailer</dd>
+</dl>
