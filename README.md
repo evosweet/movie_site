@@ -13,8 +13,13 @@
     cd movie_site
     python entertainment_center.py
 ```
-* Or open the movie_site folder double click entertainment_center.py*
+Or open the movie_site folder double click entertainment_center.py
 
+#### How to get Application: 
+#### clone Git Repo from link below
+```
+    https://github.com/evosweet/movie_site.git
+```
 
 <dl>
     <dt>Please Note</dt>
